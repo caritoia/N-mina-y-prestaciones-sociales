@@ -1,0 +1,6 @@
+{
+  "name": "Nómina y Salarios Colombia 2026 - SENA",
+  "description": "Prototipo interactivo por módulos formativos SENA sobre contratación laboral, régimen salarial CST, seguridad social, parafiscales y liquidación de prestaciones con tarifas 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
